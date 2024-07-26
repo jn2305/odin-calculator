@@ -1,0 +1,13 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.rectangle{
+    height: 750px;
+    width: 400px;
+    background-color: #1A1818;
+    place-content: center;
+}
